@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"cc762bf3-5279-4855-b299-3d23154ef9c7","feature":"Validation of Contact Us page","scenario":"Validate the Contact Us page","start":1710367640407,"group":1,"content":"","tags":"","end":1710367651759,"className":"passed"},{"id":"3cb6d5ff-9351-4931-9cf3-2a7afef85d01","feature":"Validation of Contact Us page","scenario":"Validate the Contact Us page","start":1710367663500,"group":1,"content":"","tags":"","end":1710367674626,"className":"passed"},{"id":"2793cac7-0075-439a-8ffa-e3bdfe0760c4","feature":"Validation of Contact Us page","scenario":"Validate the Contact Us page","start":1710367652148,"group":1,"content":"","tags":"","end":1710367663478,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
